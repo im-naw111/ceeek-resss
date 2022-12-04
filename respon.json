@@ -1,0 +1,139 @@
+{
+  "status": 200,
+  "message": "Successfully tracked package",
+  "data": {
+    "summary": {
+      "awb": "IDS002972779819",
+      "courier": "ID Express",
+      "service": "",
+      "status": "DELIVERED",
+      "date": "2020-10-21 03:37:57",
+      "desc": "",
+      "amount": "7000",
+      "weight": "0.12"
+    },
+    "detail": {
+      "origin": "JAKARTA PUSAT, DKI JAKARTA",
+      "destination": "KOTA CIREBON, JAWA BARAT",
+      "shipper": "ElizabethGrosir1",
+      "receiver": "Liliana"
+    },
+    "history": [
+      {
+        "date": "2020-10-21 03:37:57",
+        "desc": "Paket telah diterima oleh [LILIANA]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-21 01:09:24",
+        "desc": "Kurir [SEPTIAJI YAKUB] sedang proses pengantaran",
+        "location": ""
+      },
+      {
+        "date": "2020-10-20 14:13:47",
+        "desc": "Paket telah sampai di [TH KESAMBI]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-20 08:05:50",
+        "desc": "Paket dikirimkan ke [MH TEGAL]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-19 22:31:57",
+        "desc": "Paket telah sampai di [MH TEGAL]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-19 19:56:24",
+        "desc": "Paket dikirimkan ke [MH AJIBARANG]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-19 17:04:35",
+        "desc": "Paket telah sampai di [MH AJIBARANG]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-19 14:32:38",
+        "desc": "Paket dikirimkan ke [TH KEBUMEN]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-19 10:00:34",
+        "desc": "Paket dikirimkan ke [TH KEBUMEN]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-19 05:56:33",
+        "desc": "Paket telah sampai di [TH KEBUMEN]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-18 17:28:06",
+        "desc": "Paket dikirimkan ke [MH AJIBARANG]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-18 12:38:41",
+        "desc": "Paket telah sampai di [MH AJIBARANG]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-18 11:22:40",
+        "desc": "Paket telah sampai di [MH AJIBARANG]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-18 08:31:06",
+        "desc": "Paket dikirimkan ke [MH TEGAL]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-17 15:04:41",
+        "desc": "Paket telah sampai di [MH TEGAL]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-17 10:31:11",
+        "desc": "Paket dikirimkan ke [MH KARAWANG]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-17 07:20:42",
+        "desc": "Paket telah sampai di [MH TANGERANG]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-17 07:08:05",
+        "desc": "Paket dikirimkan ke [MH JAKARTA]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-17 06:08:04",
+        "desc": "Paket telah sampai di [MH KARAWANG]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-17 03:27:37",
+        "desc": "Paket dikirimkan ke [MH JAKARTA]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-16 22:49:22",
+        "desc": "Paket telah sampai di [MH JAKARTA]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-16 22:19:31",
+        "desc": "Paket dikirimkan ke [TH PADEMANGAN]",
+        "location": ""
+      },
+      {
+        "date": "2020-10-16 19:50:46",
+        "desc": "Paket telah diterima di [FB MANGGA DUA SELATAN]",
+        "location": ""
+      }
+    ]
+  }
+}
